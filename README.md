@@ -7,7 +7,7 @@ This project contains a Dash application designed to evaluate and display the ra
 ## Key Components
 
 ### 1. Dash Application
-The main application is built using the Dash framework with Bootstrap components for styling. Dash is a productive Python framework for building web applications, and it is particularly suited for data visualization.
+The main application is built using the Dash framework with Bootstrap components for styling.
 
 ### 2. User Inputs
 Users can input details about web pages, including:
@@ -24,7 +24,7 @@ Users can input details about web pages, including:
 - **Keywords for Ranking Prediction**: Keywords used to predict the ranking of the web page.
 
 ### 3. Callbacks
-The application uses Dash callbacks to dynamically add input fields for multiple pages and to update the results based on user inputs. Callbacks are functions that are automatically called by Dash whenever an input component's property changes.
+The application uses Dash callbacks to dynamically add input fields for multiple pages and to update the results based on user inputs. 
 
 ### 4. Scoring Functions
 The application includes several functions to calculate different scores:
