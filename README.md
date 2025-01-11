@@ -10,7 +10,8 @@ This project contains a Dash application designed to evaluate and display the ra
 The main application is built using the Dash framework with Bootstrap components for styling.
 
 ### 2. User Inputs
-Users can input details about web pages, including:
+Users can input details about web pages. Not all variables are needed for the app to run, the idea is that if you have a couple of variables you can use the app to roughly understand the other impacting variables. Moreover, the personalisation score is a constant as a means to equalize the impact it has, as in SPOnline Search all users have different personalization scores. 
+User inputs include: 
 - **Titles**: The title of the web page.
 - **Headings**: The main headings of the web page.
 - **First Paragraphs**: The introductory paragraphs of the web page.
