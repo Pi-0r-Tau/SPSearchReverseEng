@@ -1,5 +1,5 @@
 # SPSearchReverseEng
-An attempt to reverse engineer SharePoint Online Search using known variables 
+An attempt to reverse engineer SharePoint Online Search using known variables, simple but a first attempt nevertheless.
 # Page Ranking System
 
 This project contains a Dash application designed to evaluate and display the ranking of web pages based on various metrics. The application allows users to input details about web pages and calculates scores for relevance, freshness, and user interaction to determine a final ranking score.
@@ -54,10 +54,10 @@ Combines relevance, freshness, and user interaction scores to determine the fina
 where \( \alpha, \beta, \gamma, \delta \) are the weights for relevance, content, freshness, and user interaction scores respectively, and \( \text{personalised} \) is a constant personalization factor.
 
 ### 5. Results Display
-The application displays detailed results for each page, including all calculated scores and the final ranking score. The results are displayed in a structured format, making it easy to compare the performance of different pages.
+The application displays detailed results for each page, including all calculated scores and the final ranking score. The results will be shown.
 
 ## Running the Application
-To run the application, execute the script and open the provided URL in a web browser. The application will be accessible at  port 8052
+To run the application, execute the script and open the provided URL in a web browser. The application will be accessible at port 8052
 
 ## Dependencies
 - Dash
