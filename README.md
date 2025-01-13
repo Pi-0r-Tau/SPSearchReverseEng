@@ -4,7 +4,7 @@ An attempt to reverse engineer SharePoint Online Search using known variables, s
 
 This project contains a Dash application designed to evaluate and display the ranking of web pages based on various metrics. The application allows users to input details about web pages and calculates scores for relevance, freshness, and user interaction to determine a final ranking score.
 
-## Key Components
+## Overview
 
 ### 1. Dash Application
 The main application is built using the Dash framework with Bootstrap components for styling.
